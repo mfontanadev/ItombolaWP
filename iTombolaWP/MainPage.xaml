@@ -1,0 +1,41 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="iTombola.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="39*"/>
+                <ColumnDefinition Width="37*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnApostar" Content="Apostar" HorizontalAlignment="Left" Margin="166,0,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="btnApostar_Click"/>
+            <TextBox x:Name="edApuesta" HorizontalAlignment="Left" Height="71" Margin="0,99,-15,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Grid.Column="1" InputScope="Number"/>
+            <TextBlock x:Name="lblApuesta" HorizontalAlignment="Left" Height="40" Margin="0,115,0,0" TextWrapping="Wrap" Text="Apuesta:" VerticalAlignment="Top" Width="135" FontFamily="Segoe WP Semibold" FontSize="25.333"/>
+            <TextBlock x:Name="lblGanadorTitle" HorizontalAlignment="Center" Height="40" Margin="154,224,143,0" TextWrapping="Wrap" Text="Ganador" VerticalAlignment="Top" Width="159" FontFamily="Segoe WP Semibold" FontSize="30" Grid.ColumnSpan="2" TextAlignment="Center"/>
+            <TextBlock x:Name="lblGanadorNumero" HorizontalAlignment="Center" Height="77" Margin="100,282,90,0" TextWrapping="Wrap" Text="--" VerticalAlignment="Top" Width="266" FontFamily="Segoe WP Semibold" FontSize="64" Grid.ColumnSpan="2" TextAlignment="Center"/>
+            <TextBlock x:Name="lblGanadorResultado" HorizontalAlignment="Center" Height="68" Margin="97,407,90,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="269" FontFamily="Segoe WP Semibold" FontSize="48" Grid.ColumnSpan="2" TextAlignment="Center"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,13 @@
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\ApplicationIcon.png
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\Background.png
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.dll
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.pdb
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\AppManifest.xaml
+C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.xap
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\App.g.cs
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\MainPage.g.cs
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.g.resources
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.dll
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.pdb
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\XapCacheFile.xml
+C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.csprojResolveAssemblyReference.cache
