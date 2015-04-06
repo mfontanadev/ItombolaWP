@@ -11,3 +11,16 @@ C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.dll
 C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.pdb
 C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\XapCacheFile.xml
 C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.csprojResolveAssemblyReference.cache
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\ApplicationIcon.png
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\Background.png
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.dll
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.pdb
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\AppManifest.xaml
+C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.xap
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\iTombolaWP.csprojResolveAssemblyReference.cache
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\App.g.cs
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\MainPage.g.cs
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\iTombolaWP.g.resources
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\iTombolaWP.dll
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\iTombolaWP.pdb
+C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\XapCacheFile.xml

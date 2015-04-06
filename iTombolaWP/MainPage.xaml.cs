@@ -38,7 +38,7 @@ namespace iTombola
             //web.OpenReadCompleted += new OpenReadCompletedEventHandler(RequestComplete);
             //web.OpenReadAsync(new Uri("http://itombola.azurewebsites.net/WebMobile/rest/authenticate/bet"));
                         
-            int resultNumber = randomGen.Next(100);
+            int resultNumber = randomGen.Next(36);
             ShowResult(resultNumber);
         }
 
@@ -55,13 +55,12 @@ namespace iTombola
 
         void ShowResult(int value)
         {
-            int resultNumber = randomGen.Next(100);
-
+            
             // Show winner number
-            lblGanadorNumero.Text = resultNumber.ToString();
+            lblGanadorNumero.Text = value.ToString();
 
             // Show winner message
-            if (int.Parse(edApuesta.Text) == resultNumber)
+            if (int.Parse(edApuesta.Text) == value)
                 lblGanadorResultado.Text = "Ganaste";
             else
                 lblGanadorResultado.Text = "Perdiste";

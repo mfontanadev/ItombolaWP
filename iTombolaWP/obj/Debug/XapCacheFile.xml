@@ -1,10 +1,10 @@
-﻿<xapCache source="C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="06/04/2015 10:36:16 a.m.">
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="06/04/2015 10:15:18 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\Background.png" archivePath="Background.png" lastWriteTime="06/04/2015 10:12:07 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="06/04/2015 10:12:07 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\obj\Debug\iTombolaWP.dll" archivePath="iTombolaWP.dll" lastWriteTime="06/04/2015 10:36:16 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="06/04/2015 10:12:07 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="06/04/2015 10:15:18 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="06/04/2015 10:12:07 a.m." />
-  <file source="C:\workspace\iTombolaWP\iTombolaWP\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="06/04/2015 10:12:07 a.m." />
+﻿<xapCache source="C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\iTombolaWP.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="4/6/2015 12:31:30 PM">
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/6/2015 11:41:55 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\Background.png" archivePath="Background.png" lastWriteTime="4/6/2015 11:41:55 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4/6/2015 11:41:55 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\obj\Debug\iTombolaWP.dll" archivePath="iTombolaWP.dll" lastWriteTime="4/6/2015 12:31:30 PM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="4/6/2015 11:41:55 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/6/2015 11:43:26 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4/6/2015 11:41:55 AM" />
+  <file source="C:\Temp\ItombolaWP\iTombolaWP\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="4/6/2015 11:41:55 AM" />
 </xapCache>

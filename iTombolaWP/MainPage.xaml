@@ -29,7 +29,7 @@
                 <ColumnDefinition Width="39*"/>
                 <ColumnDefinition Width="37*"/>
             </Grid.ColumnDefinitions>
-            <Button x:Name="btnApostar" Content="Apostar" HorizontalAlignment="Left" Margin="166,0,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="btnApostar_Click"/>
+            <Button x:Name="btnApostar" Content="Apuesta" HorizontalAlignment="Left" Margin="166,0,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="btnApostar_Click"/>
             <TextBox x:Name="edApuesta" HorizontalAlignment="Left" Height="71" Margin="0,99,-15,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Grid.Column="1" InputScope="Number"/>
             <TextBlock x:Name="lblApuesta" HorizontalAlignment="Left" Height="40" Margin="0,115,0,0" TextWrapping="Wrap" Text="Apuesta:" VerticalAlignment="Top" Width="135" FontFamily="Segoe WP Semibold" FontSize="25.333"/>
             <TextBlock x:Name="lblGanadorTitle" HorizontalAlignment="Center" Height="40" Margin="154,224,143,0" TextWrapping="Wrap" Text="Ganador" VerticalAlignment="Top" Width="159" FontFamily="Segoe WP Semibold" FontSize="30" Grid.ColumnSpan="2" TextAlignment="Center"/>
